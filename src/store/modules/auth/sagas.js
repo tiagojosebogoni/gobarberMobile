@@ -33,8 +33,7 @@ export function* signUp({ payload }) {
     yield call(api.post, 'users', {
       name,
       email,
-      password,
-      provider: true,
+      password
     });
 
   //  history.push('/');
