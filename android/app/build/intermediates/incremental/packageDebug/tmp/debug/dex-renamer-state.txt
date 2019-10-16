@@ -1,0 +1,4 @@
+#Mon Oct 14 10:27:11 BRT 2019
+base.0=/home/tiago/Rocketseat/GONative/gobarber/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
