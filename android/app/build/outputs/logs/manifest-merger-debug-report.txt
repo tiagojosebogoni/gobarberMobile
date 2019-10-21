@@ -5,6 +5,8 @@ INJECTED from /home/tiago/Rocketseat/GONative/gobarber/android/app/src/main/Andr
 INJECTED from /home/tiago/Rocketseat/GONative/gobarber/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /home/tiago/Rocketseat/GONative/gobarber/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from /home/tiago/Rocketseat/GONative/gobarber/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] /home/tiago/Rocketseat/GONative/gobarber/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /home/tiago/Rocketseat/GONative/gobarber/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-vector-icons] /home/tiago/Rocketseat/GONative/gobarber/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.61.2] /home/tiago/.gradle/caches/transforms-2/files-2.1/35f80a8a12254cb47130bccdf9ea3aef/AndroidManifest.xml:2:1-13:12
 MERGED from [org.webkit:android-jsc:r245459] /home/tiago/.gradle/caches/transforms-2/files-2.1/59140e3acf18fbcae9c73e19a7b752fa/AndroidManifest.xml:2:1-11:12
@@ -18,6 +20,7 @@ MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/tiago/.gradle/caches
 MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/tiago/.gradle/caches/transforms-2/files-2.1/7ce63f1226d277985c017f7e86e85c43/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/tiago/.gradle/caches/transforms-2/files-2.1/3ea46a956006ec95a9224e471db5042d/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/tiago/.gradle/caches/transforms-2/files-2.1/bec9ead0b144a9cb67da196625e7252f/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.transition:transition:1.1.0] /home/tiago/.gradle/caches/transforms-2/files-2.1/ce2998502b2f988e387b3b9a863dcee4/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.0.0] /home/tiago/.gradle/caches/transforms-2/files-2.1/b7b02f2ec2e9e4459ebf2eed20359ba9/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/tiago/.gradle/caches/transforms-2/files-2.1/d03c3f7d82e6abba9f4d80c6fd084b26/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/tiago/.gradle/caches/transforms-2/files-2.1/f3aeb49f8dc38ff5aecd58027ccb53ed/AndroidManifest.xml:17:1-22:12
@@ -134,6 +137,10 @@ uses-sdk
 INJECTED from /home/tiago/Rocketseat/GONative/gobarber/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/tiago/Rocketseat/GONative/gobarber/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/tiago/Rocketseat/GONative/gobarber/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /home/tiago/Rocketseat/GONative/gobarber/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/tiago/Rocketseat/GONative/gobarber/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/tiago/Rocketseat/GONative/gobarber/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/tiago/Rocketseat/GONative/gobarber/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /home/tiago/Rocketseat/GONative/gobarber/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /home/tiago/Rocketseat/GONative/gobarber/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.61.2] /home/tiago/.gradle/caches/transforms-2/files-2.1/35f80a8a12254cb47130bccdf9ea3aef/AndroidManifest.xml:7:5-9:41
@@ -160,6 +167,8 @@ MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/tiago/.gradle/c
 MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/tiago/.gradle/caches/transforms-2/files-2.1/3ea46a956006ec95a9224e471db5042d/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/tiago/.gradle/caches/transforms-2/files-2.1/bec9ead0b144a9cb67da196625e7252f/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/tiago/.gradle/caches/transforms-2/files-2.1/bec9ead0b144a9cb67da196625e7252f/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.1.0] /home/tiago/.gradle/caches/transforms-2/files-2.1/ce2998502b2f988e387b3b9a863dcee4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /home/tiago/.gradle/caches/transforms-2/files-2.1/ce2998502b2f988e387b3b9a863dcee4/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] /home/tiago/.gradle/caches/transforms-2/files-2.1/b7b02f2ec2e9e4459ebf2eed20359ba9/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] /home/tiago/.gradle/caches/transforms-2/files-2.1/b7b02f2ec2e9e4459ebf2eed20359ba9/AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/tiago/.gradle/caches/transforms-2/files-2.1/d03c3f7d82e6abba9f4d80c6fd084b26/AndroidManifest.xml:20:5-44

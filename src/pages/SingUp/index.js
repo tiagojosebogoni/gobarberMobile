@@ -2,7 +2,7 @@ import React, {  useRef, useState } from 'react';
 import { Image } from 'react-native';
 import { useDispatch, useSelector } from 'react-redux'
 
-import logo from '../assets/logo.png';
+import logo from '../../assets/logo.png';
 
 import Background from '../Background'
 import { signUpRequest } from '../store/modules/auth/actions'
@@ -20,7 +20,7 @@ export default function SignIp({navigation}) {
   const loading = useSelector(state => state.auth.loading)
 
   function handleSubmit(){
-    dispatch(signUpRequest(name, email ,passowrd))
+      dispatch(signUpRequest(name, email ,passowrd))
   }
 
   return (

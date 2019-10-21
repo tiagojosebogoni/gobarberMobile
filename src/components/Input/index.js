@@ -1,9 +1,9 @@
-import React , {forwardRef} from 'react';
+import React, { forwardRef } from 'react';
 import PropTypes from 'prop-types'
 import { Container, TInput } from './styles';
 import Icon from 'react-native-vector-icons/MaterialIcons'
 
-export default function Input({style, icon,...rest}, ref) {
+function Input({style, icon,...rest}, ref) {
   return (
     <Container>
        { icon && <Icon name={icon} size ={20} color="rgba(255, 255, 255, 0.6)" />}
