@@ -12,7 +12,7 @@ export const Title = styled.Text`
   margin-top: 30px;
 `;
 
-export const List = styled.ListView.attrs({
+export const List = styled.FlatList.attrs({
   showsVerticalScrollIndicator: false,
-  contentContainerStyle: { padding:30 }
+  contentContainerStyle: { padding: 30 }
 })``;

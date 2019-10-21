@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/tiago/Rocketseat/GONative/gobarber/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "C:\\Users\\tiago\\Desktop\\mobile\\gobarberMobile\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "/home/tiago/.gradle/caches/transforms-2/files-2.1/2c531b1b1a7e235781d700e9784231c3/res/values-land/values-land.xml",
+                    "source": "C:\\Users\\tiago\\.gradle\\caches\\transforms-2\\files-2.1\\abfb09c96c43bee6a8dc49ae735f9440\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",

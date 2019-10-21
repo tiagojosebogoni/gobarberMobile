@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/tiago/Rocketseat/GONative/gobarber/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml",
+            "outputFile": "C:\\Users\\tiago\\Desktop\\mobile\\gobarberMobile\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ru\\values-ru.xml",
             "map": [
                 {
-                    "source": "/home/tiago/.gradle/caches/transforms-2/files-2.1/2c531b1b1a7e235781d700e9784231c3/res/values-ru/values-ru.xml",
+                    "source": "C:\\Users\\tiago\\.gradle\\caches\\transforms-2\\files-2.1\\abfb09c96c43bee6a8dc49ae735f9440\\res\\values-ru\\values-ru.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/tiago/.gradle/caches/transforms-2/files-2.1/23ca49dc4808de80260d63289b0c102b/res/values-ru/values-ru.xml",
+                    "source": "C:\\Users\\tiago\\.gradle\\caches\\transforms-2\\files-2.1\\69eb1509f66ed3b778ac5cf5fe9e8a96\\res\\values-ru\\values-ru.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

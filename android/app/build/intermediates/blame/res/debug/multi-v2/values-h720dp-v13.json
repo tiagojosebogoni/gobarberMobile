@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/tiago/Rocketseat/GONative/gobarber/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "outputFile": "C:\\Users\\tiago\\Desktop\\mobile\\gobarberMobile\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
             "map": [
                 {
-                    "source": "/home/tiago/.gradle/caches/transforms-2/files-2.1/2c531b1b1a7e235781d700e9784231c3/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "source": "C:\\Users\\tiago\\.gradle\\caches\\transforms-2\\files-2.1\\abfb09c96c43bee6a8dc49ae735f9440\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -1,14 +1,15 @@
-import React, {  useRef, useState } from 'react';
+/* eslint-disable react/jsx-filename-extension */
+import React, { useRef, useState } from 'react';
 import { Image } from 'react-native';
-import { useDispatch, useSelector } from 'react-redux'
+import { useDispatch, useSelector } from 'react-redux';
 
-import logo from '../../assets/logo.png';
+import logo from  '../../assets/logo.png';
 
-import Background from '../Background'
-import { signUpRequest } from '../store/modules/auth/actions'
+import Background from '../../components/Background';
+import { signUpRequest } from '../../store/modules/auth/actions';
 import { Container, Form, FormInput, SubmitButton, SignLink, SignLinkText} from './styles';
 
-export default function SignIp({navigation}) {
+export default function SignUp({navigation}) {
   const dispatch = useDispatch();
   const emailRef = useRef();
   const passowrdRef = useRef();
@@ -65,7 +66,7 @@ export default function SignIp({navigation}) {
           <SubmitButton loading={loading} onPress={handleSubmit}>Acessar</SubmitButton>
         </Form>
 
-        <SignLink onPress={()=>{navigation.navigate('SignUp')}}> 
+        <SignLink onPress={()=>{navigation.navigate('SignUp')}}>
           <SignLinkText> Criar conta grautita </SignLinkText>
         </SignLink>
       </Container>
